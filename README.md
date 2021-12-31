@@ -1,4 +1,4 @@
-# Pycord
+# CameronOS
 <p align="center"><img width="80%" src="https://raw.githubusercontent.com/vulture001/cameronOS/master/logo.png"></p>
 Complex C# COSMOS based Operating System developed from a compilation of multiple OS's (notably Aura)<br>
 
